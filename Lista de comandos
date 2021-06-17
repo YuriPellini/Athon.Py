@@ -1,0 +1,38 @@
+'''******************************************
+#Tipo de Dados
+int     - Números inteiros
+float   - Números com virgula
+double  - Números com dois digitos depois da virgula
+string  - Caracteres
+*********************************************
+#Tipo Entrada de Dados
+input   - Nessessário para todas entradas de dados
+*********************************************
+#Tipo Saida de Dados
+print   - Qualquer saida de dados
+*********************************************
+#Operadores Mateáticos
++       - Soma
+-       - Subtração
+*       - Multiplicação
+/       - Divisão
+%       - Resto da divisão
++=      - Soma 1
+-=      - Subtrai 1
+==      - Igualdade
+!=      - Diferença
+<=      - Igual ou menor que x
+>=      - Igual ou maior que x
+<       - Manor que x
+>       - Maior que x
+*********************************************
+#Operadores Mateáticos Rápidos
+++      - Soma 1
+*********************************************
+#Operador Condicional
+if      - Caso verdadeiro
+else    - Caso falso
+while   - Repetição caso verdadeiro
+*********************************************
+*********************************************
+******************************************'''
